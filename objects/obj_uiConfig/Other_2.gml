@@ -12,3 +12,5 @@ ds_map_replace(ui_global_config, "debug_mode", false);
 //Perform Alarm 0 event
 alarm[0] = room_speed * 2;
 
+cheatIndex = 0
+cheatKey = ["K", "O", "N", "A", "M", "I"]

@@ -1,9 +1,7 @@
 /// @description Initialize variable
 
-roomTitle = "Hanif Flat UI";
-subTitle = "Button and Radio Button";
-
-
+roomTitle = "Main Menu";
+subTitle = "Strange Basketball Game";
 
 ///Instance controls
 
