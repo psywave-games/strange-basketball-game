@@ -1,6 +1,6 @@
 
 {
-    "name": "roomConfig",
+    "name": "room_uiConfig",
     "id": "f49669b9-cdfa-4420-8fb3-cd44e1cf3ff1",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,

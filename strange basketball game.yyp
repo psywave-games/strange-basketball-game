@@ -58,7 +58,7 @@
             "Key": "124aaa4d-e9d2-408c-8526-4a1492a92b10",
             "Value": {
                 "id": "9b4da140-e018-43e2-b338-f082e0cf76d9",
-                "resourcePath": "rooms\/roomColour\/roomColour.yy",
+                "resourcePath": "rooms\/room_uiMenu\/room_uiMenu.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -106,7 +106,7 @@
             "Key": "350803d5-5536-45e5-96aa-d39f1d153e17",
             "Value": {
                 "id": "b62f5f4f-d180-4600-8b95-4015f47569da",
-                "resourcePath": "objects\/objButton\/objButton.yy",
+                "resourcePath": "objects\/obj_uiMenu\/obj_uiMenu.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -183,14 +183,6 @@
             }
         },
         {
-            "Key": "78c802ca-7565-476b-adbb-48d430baad38",
-            "Value": {
-                "id": "4fe8431e-d45e-4913-9889-f91d8cc6ab7f",
-                "resourcePath": "objects\/objColour\/objColour.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "7f9b871f-c629-4375-91f4-3293326a8367",
             "Value": {
                 "id": "2e6935e2-4ba3-4e51-825e-75e20187d3b9",
@@ -202,7 +194,7 @@
             "Key": "8e969625-e0ef-4dfc-9fa4-d4ca7f988c4d",
             "Value": {
                 "id": "eb406659-7ea7-4406-8635-346b62386a44",
-                "resourcePath": "objects\/objConfig\/objConfig.yy",
+                "resourcePath": "objects\/obj_uiConfig\/obj_uiConfig.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -319,14 +311,6 @@
             }
         },
         {
-            "Key": "e5e0b808-e104-47c3-b383-1aece9d56634",
-            "Value": {
-                "id": "4626bfb9-d625-4f55-984f-7c22489a2a8f",
-                "resourcePath": "objects\/objTextbox\/objTextbox.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "edd793f1-5ebb-4fc9-bda2-9b5b4a3673b6",
             "Value": {
                 "id": "4cecad2e-456a-4ea8-95ec-62d50d11053d",
@@ -378,7 +362,7 @@
             "Key": "f49669b9-cdfa-4420-8fb3-cd44e1cf3ff1",
             "Value": {
                 "id": "f657d033-65ea-493c-9090-9d150e5eb4f5",
-                "resourcePath": "rooms\/roomConfig\/roomConfig.yy",
+                "resourcePath": "rooms\/room_uiConfig\/room_uiConfig.yy",
                 "resourceType": "GMRoom"
             }
         }
