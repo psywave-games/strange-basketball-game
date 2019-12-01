@@ -6,13 +6,13 @@ sign_x = sign (phy_speed_x)
 sign_y = sign (phy_speed_y)
 
 
-/*// Detectar se o jogador está fora do chão 
+// Detectar se o jogador está fora do chão 
 if not colison_floor  {
 	// verificar se a animação de pulo ainda não foi alterada
-	if sprite_index != spr_jotaroJump{
+	/*if sprite_index != spr_jotaroJump{
 		sprite_index = spr_jotaroJump	//Trocar animação p/pulo
 		image_speed = phy_speed_x / spd_walk * sign_x //Ajustar velocidade
-	}
+	}*/
 	
 	// verificar se existe uma direção na movimentação
 	if sign_x != 0 {
@@ -20,7 +20,7 @@ if not colison_floor  {
 	}
 }
 // Detectar se o jogador está andando em alguma direção
-else */if sign_x != 0 {
+else if sign_x != 0 {
 
 	image_xscale = sign_x // Virar sprite para direção de movimento
 	image_speed = phy_speed_x / spd_walk * sign_x 
@@ -50,6 +50,10 @@ if with_ball {
 	
 	obj_ball.y = self.y + (anim_fix_y * anim_index)
 	obj_ball.x = self.x + (ball_anim_fix_x * sign_x)
+	
+	if colison_floor{
+		obj_ball.image_angle = -phy_position_x // girar a bola
+	}
 } 
 
 

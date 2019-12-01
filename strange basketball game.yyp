@@ -287,6 +287,22 @@
             }
         },
         {
+            "Key": "973afcb7-00a3-4453-ae89-f420b8f4bd4f",
+            "Value": {
+                "id": "48471ee8-2e53-45bc-8e76-f216f5cbe5ab",
+                "resourcePath": "views\/973afcb7-00a3-4453-ae89-f420b8f4bd4f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9781453b-4d03-428a-8ca9-12cb425cc7e0",
+            "Value": {
+                "id": "fb14ce31-fe5c-4381-bc61-6cfb1261224f",
+                "resourcePath": "sprites\/spr_gameTitle0\/spr_gameTitle0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9cc6ff9a-9ee1-4277-ac49-9967675549fd",
             "Value": {
                 "id": "150082fe-ed19-43fe-a94b-d97e7bfb9a1e",
