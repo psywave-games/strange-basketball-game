@@ -1,0 +1,180 @@
+Converting GML script: HanifFlatUI.gml
+Converted string - line 29: '|' -> "|"
+Converted string - line 39: '|' -> "|"
+Converted string - line 76: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 20: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 35: '|' -> "|"
+Converted string - line 36: "\#" -> "\\#"
+Converted string - line 37: "\#" -> "\\#"
+Converted string - line 71: "\#" -> "\\#"
+Converted string - line 71: "\#" -> "\\#"
+Converted string - line 95: '|' -> "|"
+Converted string - line 103: '|' -> "|"
+Converted string - line 105: '|' -> "|"
+Converted string - line 109: '|' -> "|"
+Converted string - line 258: '|' -> "|"
+Converted string - line 259: '|' -> "|"
+Converted string - line 260: '|' -> "|"
+Converted string - line 264: '|' -> "|"
+Converted string - line 279: '|' -> "|"
+Converted string - line 281: '|' -> "|"
+Converted string - line 286: '|' -> "|"
+Converted string - line 288: '|' -> "|"
+Converted string - line 295: "\#" -> "\\#"
+Converted string - line 296: "\#" -> "\\#"
+Converted string - line 301: "\#" -> "\\#"
+Converted string - line 301: "\#" -> "\\#"
+Converted string - line 301: '|' -> "|"
+Converted string - line 304: "\#" -> "\\#"
+Converted string - line 304: "\#" -> "\\#"
+Converted string - line 304: '|' -> "|"
+Converted string - line 309: '|' -> "|"
+Converted string - line 309: '|' -> "|"
+Converted string - line 313: '|' -> "|"
+Converted string - line 320: '|' -> "|"
+Converted string - line 326: "\#" -> "\\#"
+Converted string - line 329: '|' -> "|"
+Converted string - line 329: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 35: '|' -> "|"
+Converted string - line 94: '|' -> "|"
+Converted string - line 95: '|' -> "|"
+Converted string - line 95: '|' -> "|"
+Converted string - line 194: '|' -> "|"
+Converted string - line 195: '|' -> "|"
+Converted string - line 195: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 15: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 40: '|' -> "|"
+
+Converting GML script: HanifFlatUI.gml
+Converted string - line 44: "\" -> "\\"
+Converted string - line 44: '"' -> "\""
+Converted string - line 354: "\#" -> "\\#"
+Converted string - line 355: "\#" -> "\\#"
+
+Converting GML script: ${project_dir}/scripts/header/header.gml
+Converted description /// @description Draw rectangle as header background
+
+Converting GML script: ${project_dir}/scripts/footer/footer.gml
+Converted description /// @description Draw rectangle as footer background
+
+!!! Font fontHuge uses a font (Roboto Thin) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontHuge/fontHuge.gms1.png
+!!! Font fontTitle uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontTitle/fontTitle.gms1.png
+!!! Font fontText uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontText/fontText.gms1.png
+!!! Font fontButton uses a font (Roboto Medium) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontButton/fontButton.gms1.png
+!!! Font fontLabel uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontLabel/fontLabel.gms1.png
+!!! Font fontSmall uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontSmall/fontSmall.gms1.png
+!!! Font fontKeyboard uses a font (Roboto Regular) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontKeyboard/fontKeyboard.gms1.png
+!!! Font fontDebug uses a font (Roboto Bold) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/fontDebug/fontDebug.gms1.png
+Converting GML script: ${project_dir}/objects/objConfig/Alarm_0.gml
+Converted description /// @description Goto next room
+
+Converting GML script: ${project_dir}/objects/objConfig/Other_2.gml
+Converted description /// @description Configuration
+
+Converting GML script: ${project_dir}/objects/objConfig/Draw_0.gml
+Converted description /// @description Draw loading text
+
+Converting GML script: ${project_dir}/objects/objColour/Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}/objects/objColour/Step_0.gml
+Converted description /// @description Change cursor on hover controls
+
+Converting GML script: ${project_dir}/objects/objColour/Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}/objects/objColour/Draw_64.gml
+Converted description /// @description Draw GUI and Controls
+
+Converting GML script: ${project_dir}/objects/objColour/Draw_0.gml
+Converted description /// @description Draw instance elements
+
+Converting GML script: ${project_dir}/objects/objTextbox/Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}/objects/objTextbox/Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}/objects/objTextbox/Draw_64.gml
+Converted description /// @description Draw GUI and Controls
+
+Converting GML script: ${project_dir}/objects/objTextbox/Draw_0.gml
+Converted description /// @description Draw instance elements
+
+Converting GML script: ${project_dir}/objects/objButton/Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}/objects/objButton/Step_0.gml
+Converted description /// @description Change cursor on hover controls
+
+Converting GML script: ${project_dir}/objects/objButton/Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}/objects/objButton/Draw_64.gml
+Converted description /// @description Draw instance elements
+
+Converting GML script: ${project_dir}/objects/objCheckbox/Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}/objects/objCheckbox/Step_0.gml
+Converted description /// @description Change cursor on hover controls
+
+Converting GML script: ${project_dir}/objects/objCheckbox/Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}/objects/objCheckbox/Draw_64.gml
+Converted description /// @description Draw GUI and Controls
+
+Converting GML script: ${project_dir}/objects/objCheckbox/Draw_0.gml
+Converted description /// @description Draw instance elements
+
+Converting GML script: ${project_dir}/objects/objSelect/Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}/objects/objSelect/Step_0.gml
+Converted description /// @description Change cursor on hover controls
+
+Converting GML script: ${project_dir}/objects/objSelect/Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}/objects/objSelect/Draw_64.gml
+Converted description /// @description Draw GUI and Controls
+
+Converting GML script: ${project_dir}/objects/objSelect/Draw_0.gml
+Converted description /// @description Draw instance elements
+
+Converting GML script: ${project_dir}/objects/objSidenav/Create_0.gml
+Converted description /// @description Initialize variable
+
+Converting GML script: ${project_dir}/objects/objSidenav/Step_0.gml
+Converted description /// @description Change cursor on hover controls
+
+Converting GML script: ${project_dir}/objects/objSidenav/Other_5.gml
+Converted description /// @description Clear all controls
+
+Converting GML script: ${project_dir}/objects/objSidenav/Draw_64.gml
+Converted description /// @description Add content to tab & sidenav
+
+Converting GML script: ${project_dir}/objects/objSidenav/Draw_0.gml
+Converted description /// @description Draw instance elements
+
+Converting GML script: ${project_dir}/objects/objDebug/Draw_64.gml
+Converted description /// @description Drawing FPS
