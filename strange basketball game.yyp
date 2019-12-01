@@ -63,14 +63,6 @@
             }
         },
         {
-            "Key": "125a3ff5-c7ad-412f-8e47-fc9a02f81e8f",
-            "Value": {
-                "id": "23ae1854-6d4f-4d30-ac81-b3410b3261ab",
-                "resourcePath": "rooms\/roomButton\/roomButton.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "2055d375-b63b-4478-93e9-127ef422ca3a",
             "Value": {
                 "id": "d0abcb1f-815f-482c-870c-18b529dfac5b",
@@ -151,27 +143,11 @@
             }
         },
         {
-            "Key": "5d1dac07-c01f-412f-92df-14c0861ff028",
-            "Value": {
-                "id": "d75007f0-767a-4846-a04c-cda880fcc960",
-                "resourcePath": "rooms\/roomTextbox\/roomTextbox.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "60847de7-6196-4b80-b396-bcadb74220da",
             "Value": {
                 "id": "7dfae677-865d-4dd3-81f8-4941b65df9bd",
                 "resourcePath": "notes\/compatibility_report_301119_2234433443.yy",
                 "resourceType": "GMNotes"
-            }
-        },
-        {
-            "Key": "68943028-e6ca-4707-b7df-9a197f0b37fa",
-            "Value": {
-                "id": "0dbd1f01-5c83-40b8-8557-cf9c6906a448",
-                "resourcePath": "objects\/objSelect\/objSelect.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -271,6 +247,14 @@
             }
         },
         {
+            "Key": "c8182301-ca64-4bc0-b696-7371e2338b46",
+            "Value": {
+                "id": "9f207e28-493d-4bd9-9734-cca58c53bf69",
+                "resourcePath": "rooms\/room_game0\/room_game0.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "c9acd7d9-6daa-4529-afc5-b47cebf58e3c",
             "Value": {
                 "id": "4604531e-1fa5-4629-a86d-f9f6fb09ce9f",
@@ -282,7 +266,7 @@
             "Key": "d7b93e2b-075d-40d7-8a2f-9cc41898e49f",
             "Value": {
                 "id": "28b77695-74e6-4ecc-8ff0-8ec2959ca7ba",
-                "resourcePath": "objects\/objDebug\/objDebug.yy",
+                "resourcePath": "objects\/obj_uiDebug\/obj_uiDebug.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -292,14 +276,6 @@
                 "id": "60946260-3f82-43e9-bbae-6ef9503760ad",
                 "resourcePath": "fonts\/fontLabel\/fontLabel.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "dcfdc0b8-a94f-4673-92ba-d61be45a61f3",
-            "Value": {
-                "id": "e69ceb29-11bd-4ab3-8fdb-640ce6e776f5",
-                "resourcePath": "objects\/objCheckbox\/objCheckbox.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -324,30 +300,6 @@
                 "id": "210bc417-3e50-4aa3-a94c-ee83f57cb0bf",
                 "resourcePath": "views\/f0d1ce44-a8fb-4387-a165-de10629dc604.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f1ace065-8f37-4287-a392-a1a1d8891f83",
-            "Value": {
-                "id": "e4b1a0c1-0fb2-4844-b0a5-32a1545809e9",
-                "resourcePath": "objects\/objSidenav\/objSidenav.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "f1b1a7dd-24f8-40d2-a00e-10840fe68dc6",
-            "Value": {
-                "id": "8fa81281-a660-41a2-85d4-4d6cd27575ef",
-                "resourcePath": "rooms\/roomSelect\/roomSelect.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "f38d834f-7c53-4ae4-bb4f-9c22525c7e64",
-            "Value": {
-                "id": "d9156252-9f29-44da-b57a-cf3ac5c4f445",
-                "resourcePath": "rooms\/roomCheckbox\/roomCheckbox.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
