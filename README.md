@@ -12,7 +12,7 @@ Strange Basketball Game
 ### Main Tasks 
 
 - [X] Splash screen 
-- [ ] Main Menu
+- [X] Main Menu
 - [ ] Simulate physics
 - [ ] Character movement
 - [ ] Basics Anims
