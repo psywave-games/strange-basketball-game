@@ -10,5 +10,5 @@ ds_map_replace(ui_global_config, "default_label_font", fontLabel);
 ds_map_replace(ui_global_config, "debug_mode", false);
 
 //Perform Alarm 0 event
-alarm[0] = room_speed ;
+alarm[0] = room_speed * 2;
 

@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "c6535b35-1082-4b66-a79f-d6581b36b0cf",
+            "Value": {
+                "id": "d1d82d60-355d-493e-af5b-7d126b8f0698",
+                "resourcePath": "objects\/obj_uiBase\/obj_uiBase.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c9acd7d9-6daa-4529-afc5-b47cebf58e3c",
             "Value": {
                 "id": "4604531e-1fa5-4629-a86d-f9f6fb09ce9f",
