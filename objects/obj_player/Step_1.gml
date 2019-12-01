@@ -19,3 +19,9 @@ key_alt = keyboard_check( vk_alt )
 key_axis_x = key_rigth - key_left
 key_axis_y = key_down - key_up
 #endregion
+
+#region DETECT BALL
+
+with_ball = not obj_ball.phy_active // detecta se está com a bola
+
+#endregion
