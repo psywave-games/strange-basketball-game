@@ -5,18 +5,19 @@
 #region MOVIMENT MECHANICS
 
 spd_max = colison_floor? spd_sprint: spd_walk
+spd_add = sign(phy_speed_x) == key_axis_x? spd_up: sdp_down
 
 // Movimentar para esquerda
-if key_axis_x < 0 and phy_speed_x > -spd_max{// and not colison_left{
-	phy_speed_x -= spd_up
+if key_axis_x < 0 and phy_speed_x > -spd_max and not colison_left{// and not colison_left{
+	phy_speed_x -= spd_add
 // Movimentar para Direita
-} else if key_axis_x > 0 and phy_speed_x < spd_max{// and not colison_right{
-	phy_speed_x += spd_up	
+} else if key_axis_x > 0 and phy_speed_x < spd_max and not colison_right{// and not colison_right{
+	phy_speed_x += spd_add	
 } else if colison_left or colison_right {
 	phy_speed_x = 0	
 }
 
-if key_jump /*and colison_floor*/ {
+if key_jump and colison_floor {
 	phy_speed_y -= spd_up * spd_jump	
 }
 

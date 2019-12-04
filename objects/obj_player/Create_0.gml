@@ -4,7 +4,8 @@
 
 #region MACRO SPEED
 
-#macro spd_up		0.25	// aceleração
+#macro spd_up		0.2		// aceleração
+#macro sdp_down		1		// desaceleração
 #macro spd_turtle	2		// velocidade sutil
 #macro spd_walk		5		// velocidade caminhada
 #macro spd_sprint	7		// velocidade corrida
@@ -14,7 +15,7 @@
 
 #region MACRO COLISION
 
-#macro colison_tolerance	0.1 // tolerancia detectar a colisão
+#macro colison_tolerance	0.24 // tolerancia detectar a colisão
 
 #endregion
 
