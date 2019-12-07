@@ -8,7 +8,7 @@
 #macro sdp_down		1		// desaceleração
 #macro spd_turtle	2		// velocidade sutil
 #macro spd_walk		5		// velocidade caminhada
-#macro spd_sprint	7		// velocidade corrida
+#macro spd_sprint	6		// velocidade corrida
 #macro spd_jump		40		// velocidade pulo
 
 #endregion
@@ -32,6 +32,9 @@
 
 
 can_gap_ball = true			// pode pegar a bola
+key_fire = false
+key_fire_pressing = false
+fire_time = get_timer() * get_timer()
 
 phy_fixed_rotation = true	// desativar rotação
 

@@ -17,26 +17,24 @@ if key_axis_x < 0 and phy_speed_x > -spd_max and not colison_left{// and not col
 	phy_speed_x = 0	
 }
 
-if key_jump and colison_floor {
-	phy_speed_y -= spd_up * spd_jump	
-}
-
 #endregion
 
 #region TROWN ATTACK
-if with_ball and key_fire{
+
+if with_ball and key_fire_realese {
 	
 	fire_direction = image_xscale
 	alarm[0] = 30
 	
-	obj_ball.phy_active = true
-	
 	obj_ball.phy_position_y = phy_position_y - ball_anim_fix_y
 	obj_ball.phy_position_x = phy_position_x + (ball_anim_fix_x * fire_direction)
 	
-	obj_ball.phy_speed_y = phy_speed_x - 12
-	obj_ball.phy_speed_x = phy_speed_x + (fire_direction * 6)
-	 	
+	obj_ball.phy_speed_x = phy_speed_x + 500 * fire_direction
+
+	obj_ball.phy_active = true
 }
+else if key_fire_pressing {
+	phy_speed_y = -spd_up * spd_jump	
+} 
 #endregion
 
